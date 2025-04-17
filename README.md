@@ -49,3 +49,5 @@ A full-stack web application designed to streamline property rentals, built usin
    git clone https://github.com/ro7hith/housingrentalsystem-MERN_Stack.git
    cd housingrentalsystem-MERN_Stack
 
+cd server && npm install
+cd ../client && npm install
