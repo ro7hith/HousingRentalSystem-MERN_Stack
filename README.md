@@ -55,3 +55,9 @@ cd ../client && npm install
 PORT=5000
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret
+
+# Run backend
+cd server && npm run dev
+
+# In another terminal, run frontend
+cd client && npm start
