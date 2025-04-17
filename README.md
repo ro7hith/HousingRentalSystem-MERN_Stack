@@ -34,3 +34,18 @@ A full-stack web application designed to streamline property rentals, built usin
 - FronEnd
 - BackEnd
 
+
+## 🔧 Getting Started
+
+### Prerequisites
+- Node.js and npm
+- MongoDB (local or Atlas)
+- Git
+
+### Installation
+
+1. **Clone the repo**
+   ```bash
+   git clone https://github.com/ro7hith/housingrentalsystem-MERN_Stack.git
+   cd housingrentalsystem-MERN_Stack
+
